@@ -6,11 +6,11 @@ A machine learning–based web application that predicts the **resale price of s
 
 ## 🚀 Project Overview
 
-This project combines **Data Science, Machine Learning, and Web Development** to build an end-to-end predictive system. It includes:
+This project combines **Data Science, Machine Learning** to build an end-to-end predictive system. It includes:
 
 - Data preprocessing and model training using Python
 - A saved ML model (`model.pkl`)
-- A Flask-based web application for user interaction
+- A Streamlit-based web application for user interaction
 - CSV datasets used for training and evaluation
 
 This application can be useful for:
@@ -24,7 +24,6 @@ This application can be useful for:
 
 - 📊 Data preprocessing and Exploratory Data Analysis (EDA)
 - 🤖 Machine Learning model for price prediction
-- 🌐 Flask web app for real-time predictions
 - 💾 Pre-trained model using Pickle
 - 🧠 Easy-to-use interface
 
@@ -70,9 +69,9 @@ This application can be useful for:
 - Pandas
 - NumPy
 - Scikit-learn
-- Flask
+- Streamlit
 - Pickle
-- HTML / CSS (for frontend)
+
 
 ---
 
@@ -101,14 +100,14 @@ Streamlit run app.py
 
 ### 🔹Step 4: Open in Browser
 
-🚀 **Streamlit App:**  
-https://<your-streamlit-app-link>
+## 🚀 **Streamlit App:**  
+[https://](https://second-hand-mobile-tablet-prediction-app.onrender.com/)
 
 ## 📸 Screenshots
 
-### 🔹 Home Page
+
 ![Home Page](images/home.png)
 
-### 🔹 Prediction Result
+
 ![Prediction Result](images/prediction.png)
 
