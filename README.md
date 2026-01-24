@@ -101,7 +101,7 @@ Streamlit run app.py
 ### 🔹Step 4: Open in Browser
 
 ## 🚀 **Streamlit App:**  
-[https://](https://second-hand-mobile-tablet-prediction-app.onrender.com/)
+[Click Me](https://second-hand-mobile-tablet-prediction-app.onrender.com/)
 
 ## 📸 Screenshots
 
