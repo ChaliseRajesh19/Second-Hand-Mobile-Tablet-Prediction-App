@@ -101,13 +101,14 @@ Streamlit run app.py
 
 ### 🔹Step 4: Open in Browser
 
-
+🚀 **Streamlit App:**  
+https://<your-streamlit-app-link>
 
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home Page]()
+![Home Page](images/home.png)
 
 ### 🔹 Prediction Result
-![Prediction Result](images/result.png)
+![Prediction Result](images/prediction.png)
 
