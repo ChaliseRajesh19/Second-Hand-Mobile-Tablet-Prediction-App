@@ -297,6 +297,8 @@ input_dict = {
     'os': [os],
     '4g': [_4g],
     '5g': [_5g],
+    'release_year': [release_year],      # ✅ ADD
+    'screen_size': [screen_size],        # ✅ ADD
     'rear_camera_mp': [rear_camera_mp],
     'front_camera_mp': [front_camera_mp],
     'internal_memory': [internal_memory],
